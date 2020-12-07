@@ -1,0 +1,17 @@
+# PhpStorm
+.idea
+
+# General files
+*~
+*.DS_STORE
+
+# Dependency managers
+node_modules/
+npm-debug.log
+
+# App
+*.log
+config.json
+*.mp4
+*.png
+dist/
